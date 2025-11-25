@@ -204,51 +204,8 @@
 
 	<div class="seminar upcoming-seminar">
           <h2 class="seminar-title">
-            A geometric formulation of GENERIC stochastic differential equations
+            Orbital stability of propagated waves in parabolic systems (Part I)
 			  <span class="status-badge upcoming-badge">Upcoming</span>
-          </h2>            
-          <div class="meta-info">
-	    <div class="meta-item">
-              <strong>报告人:</strong>
-              <span>程梦雨(数学科学学院) </span>
-            </div>
-            <div class="meta-item">
-	      <strong>日期:</strong>
-              <span>2025年11月25日</span>
-            </div>
-            <div class="meta-item">
-              <strong>时间:</strong>
-              <span>10:00 AM - 11:30 AM</span>
-            </div>
-            <div class="meta-item">
-              <strong>地点:</strong>
-              <span>数学科学学院224</span>
-            </div>
-          </div>	  
-	  <div class="description">
-            <p>
-	      This talk will present a geometric formulation of GENERIC stochastic
-differential equations, based on the recent work [Peletier and Seri,
-arXiv:2509.09566v2]. They propose a coordinate-invariant geometric formulation
-of the GENERIC stochastic differential equation, unifying reversible Hamiltonian
-and irreversible dissipative dynamics within a differential-geometric
-framework. Their construction builds on the classical GENERIC or metriplectic
-formalism, extending it to manifolds by introducing a degenerate Poisson
-structure, a degenerate co-metric, and a volume form satisfying a unimodularity
-condition. The resulting equation preserves a particular Boltzmann-type measure,
-ensures almost-sure conservation of energy, and reduces to the deterministic
-GENERIC/metriplectic formulation in the zero-noise limit. This geometrization
-separates system-specific quantities from the ambient space, clarifies the roles
-of the underlying structures, and provides a foundation for analytic and
-numerical methods, as well as future extensions to quantum and coarse-grained
-systems.
-	    </p>
-          </div>
-	</div>	
-
-	<div class="seminar upcoming-seminar">
-          <h2 class="seminar-title">
-            TBA
           </h2>            
           <div class="meta-info">
 	    <div class="meta-item">
@@ -270,14 +227,24 @@ systems.
           </div>	  
 	  <div class="description">
             <p>
-	      TBA
+	      In these two lectures, we will discuss a class of partial differential 
+equations that models a large range of biological and physical 
+phenomena. Some of their solutions are given as a fixed profile 
+traveling with constant speed.
+We will discuss the long time stability of these specific solutions. Due 
+to translational invariance, the linearized dynamics spectrum touches 
+the imaginary axis. As a consequence, it is necessary to distinguish 
+between shape and phase dynamics. I will present the different tools and 
+approaches that where developed in the past fifty years to separate and 
+control these different dynamics. If time allows, we will discuss 
+possible extensions of these tools to open problems.
 	    </p>
           </div>
 	</div>	
 
 	<div class="seminar upcoming-seminar">
           <h2 class="seminar-title">
-            TBA
+            Orbital stability of propagated waves in parabolic systems (Part II)
           </h2>            
           <div class="meta-info">
 	    <div class="meta-item">
@@ -299,7 +266,17 @@ systems.
           </div>	  
 	  <div class="description">
             <p>
-	      TBA
+	      In these two lectures, we will discuss a class of partial differential 
+equations that models a large range of biological and physical 
+phenomena. Some of their solutions are given as a fixed profile 
+traveling with constant speed.
+We will discuss the long time stability of these specific solutions. Due 
+to translational invariance, the linearized dynamics spectrum touches 
+the imaginary axis. As a consequence, it is necessary to distinguish 
+between shape and phase dynamics. I will present the different tools and 
+approaches that where developed in the past fifty years to separate and 
+control these different dynamics. If time allows, we will discuss 
+possible extensions of these tools to open problems.
 	    </p>
           </div>
 	</div>	
@@ -368,6 +345,52 @@ systems.
     </div>
     
     <!-- PAST EVENTS SECTION -->
+
+	
+
+	<div class="seminar past-seminar">
+          <h2 class="seminar-title">
+            A geometric formulation of GENERIC stochastic differential equations
+          </h2>            
+          <div class="meta-info">
+	    <div class="meta-item">
+              <strong>报告人:</strong>
+              <span>程梦雨(数学科学学院) </span>
+            </div>
+            <div class="meta-item">
+	      <strong>日期:</strong>
+              <span>2025年11月25日</span>
+            </div>
+            <div class="meta-item">
+              <strong>时间:</strong>
+              <span>10:00 AM - 11:30 AM</span>
+            </div>
+            <div class="meta-item">
+              <strong>地点:</strong>
+              <span>数学科学学院224</span>
+            </div>
+          </div>	  
+	  <div class="description">
+            <p>
+	      This talk will present a geometric formulation of GENERIC stochastic
+differential equations, based on the recent work [Peletier and Seri,
+arXiv:2509.09566v2]. They propose a coordinate-invariant geometric formulation
+of the GENERIC stochastic differential equation, unifying reversible Hamiltonian
+and irreversible dissipative dynamics within a differential-geometric
+framework. Their construction builds on the classical GENERIC or metriplectic
+formalism, extending it to manifolds by introducing a degenerate Poisson
+structure, a degenerate co-metric, and a volume form satisfying a unimodularity
+condition. The resulting equation preserves a particular Boltzmann-type measure,
+ensures almost-sure conservation of energy, and reduces to the deterministic
+GENERIC/metriplectic formulation in the zero-noise limit. This geometrization
+separates system-specific quantities from the ambient space, clarifies the roles
+of the underlying structures, and provides a foundation for analytic and
+numerical methods, as well as future extensions to quantum and coarse-grained
+systems.
+	    </p>
+          </div>
+	</div>	
+	
     <div class="past-section">
         <div class="section-header">
             <span class="section-icon">📚</span>
